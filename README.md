@@ -116,7 +116,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <div><button id="boton" type="button">Baileys - By adiwajshing</button></div>
 <a href="https://github.com/adiwajshing/Baileys"><img src="https://github.com/adiwajshing.png" width="150" height="150" alt="adiwajshing"/></a>
 
-## `PORPIETARIO DEL BOT` 
+## `CREADOR DEL BOT` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
   
 `Bot original: TheMystic-Bot-MD - By Bruno Sobrino`
