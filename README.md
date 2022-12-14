@@ -1,50 +1,30 @@
 # `WhatsApp Bot`
 
-### `Dudas sobre el bot, cont`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/34642467703" target="blank"><img src="https://img.shields.io/badge/UNPTOADHIH15_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50499698072" target="blank"><img src="https://img.shields.io/badge/ALBERTO_ACOSTA_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986460945" target="blank"><img src="https://img.shields.io/badge/AIDEN_NOTLOGIC_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51940617554" target="blank"><img src="https://img.shields.io/badge/GATITO_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/593991398786" target="blank"><img src="https://img.shields.io/badge/CARLOSTWT_COLAB.5-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51996089079" target="blank"><img src="https://img.shields.io/badge/GHOST_COLAB.6-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51995386439" target="blank"><img src="https://img.shields.io/badge/NEKOSMIC_MATT_COLAB.7-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_COLAB.8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 💟 GRUPO DE SOPORTE 💟`
+### `Grupo de soporte del bot original`
 
 <a href="https://chat.whatsapp.com/DNJ4Ppm5ysn3fhjGflrr0J" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
-### `—◉ 🤖 BOTS OFICIALES 🤖`
+### `Bots Oficiales 🤖`
 
 <a href="https://api.whatsapp.com/send/?phone=5219993404349&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
 
-### `—◉ 💰 DONAR 💰`
+### `Donar al creador del bot original`
 - AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
+### `Letra del bot`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
-
-### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
-- PAGINA [Aqui](https://beta.openai.com/playground)
-
-### `—◉ 💕 PLUGINS 💕`
-- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
   
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+### `Activar bot original en replit`
 
 [![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD)
 
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
 
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
+### `Activar bot original en termux` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 cd && termux-setup-storage
@@ -136,7 +116,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <div><button id="boton" type="button">Baileys - By adiwajshing</button></div>
 <a href="https://github.com/adiwajshing/Baileys"><img src="https://github.com/adiwajshing.png" width="150" height="150" alt="adiwajshing"/></a>
 
-## `EDITOR & PORPIETARIO DEL BOT` 
+## `PORPIETARIO DEL BOT` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
   
-`TheMystic-Bot-MD - By Bruno Sobrino`
+`Bot original: TheMystic-Bot-MD - By Bruno Sobrino`
